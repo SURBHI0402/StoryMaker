@@ -50,14 +50,6 @@ Build the app for production to the `build` folder. This command bundles React i
 
 Once you've completed the installation steps, you can start generating random stories by simply clicking the "Generate Story" button on the app's interface.
 
-## 🤝 Contributing
-
-If you'd like to contribute to this project, please read our [contribution guidelines](CONTRIBUTING.md) for details on how to get started.
-
-## 🙏 Acknowledgments
-
-We would like to thank the [Create React App](https://github.com/facebook/create-react-app) team for providing an excellent development environment for React applications.
-
 ---
 
 Happy story generating! 📚✨
