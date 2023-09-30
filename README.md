@@ -1,6 +1,9 @@
 # 📖 Random Story Generator with Create React App
 
+
 This project is a random story generator built with [Create React App](https://github.com/facebook/create-react-app). It allows you to create and read random stories at the click of a button. 
+
+![image](https://github.com/SURBHI0402/StoryMaker/assets/81684867/e0ebe562-755b-47d7-bb8a-43225f7b3a89)
 
 ## 🚀 Getting Started with Create React App
 
