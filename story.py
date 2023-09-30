@@ -1,7 +1,8 @@
+#import libraries
 import openai
 from 	apikey import APIKEY
 
-# Replace 'YOUR_API_KEY' with your actual GPT-3 API key
+
 api_key = 'key'
 openai.api_key = api_key
 
@@ -19,9 +20,9 @@ genres = ['horror', 'thriller', 'comedy', 'romance']
 selected_genre = input(f"Select a genre ({', '.join(genres)}): ").lower()
 user_prompt = input("Provide a short prompt (4 lines) for the story: ")
 
-# Define temperature and max tokens for text generation
+# The temperature parameter controls the randomness of the generated text
 temperature = 0.7
-max_tokens = 200  # Adjust as needed
+max_tokens = 200 
 
 # Generate a story based on genre and user prompt
 response = openai.Completion.create(
