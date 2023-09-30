@@ -3,7 +3,8 @@
 
 This project is a random story generator built with [Create React App](https://github.com/facebook/create-react-app). It allows you to create and read random stories at the click of a button. 
 
-![image](https://github.com/SURBHI0402/StoryMaker/assets/81684867/e0ebe562-755b-47d7-bb8a-43225f7b3a89)
+![image](https://github.com/SURBHI0402/StoryMaker/assets/81684867/9449edee-a3d7-4b7a-ab0f-a7babba5a502)
+
 
 ## 🚀 Getting Started with Create React App
 
